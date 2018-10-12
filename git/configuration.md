@@ -31,6 +31,5 @@ $ git config --global user.name "Your name"
 $ git config --global user.email "address@server.com"
 ```
 
-* [Advanced configuration ->](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
-<br>
-* [Next -> Working of git](working.md)
+- [Advanced configuration ->](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+- [Next -> Working of git](working.md)
