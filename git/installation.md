@@ -1,19 +1,22 @@
-# Installing git
+# Installing `git`
 
 ## Using binaries
 
-You can download the binaries from [https://git-scm.com/downloads](https://git-scm.com/downloads)
-and install them.
+You can download the binaries from [https://git-scm.com/downloads](https://git-scm.com/downloads) and install them as you normally would.
 
 ## Using terminal
 ### On Windows
 If you have [`scoop`](https://github.com/lukesampson/scoop) installed, run
+
 ``` bash
 $ scoop install git
 ```
 
+Or download binaries from the above link.
+
 ### On Mac OS
 If you have [`Homebrew`](https://brew.sh/) installed, run
+
 ``` bash
 $ brew install git
 ```
